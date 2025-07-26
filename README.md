@@ -2,7 +2,7 @@
 
 ## 1. Project Objective
 
-This project, completed for CS-4440 at Appalachian State University, investigates the use of deep learning models to improve the accuracy of the National Water Model (NWM) for short-range runoff forecasting. The core approach is not to replace the NWM, but to build a data-driven post-processor that learns to predict and correct its systematic errors.
+This project aims to improve a previous project, completed for CS-4440 at Appalachian State University, investigating the use of deep learning models to improve the accuracy of the National Water Model (NWM) for short-range runoff forecasting. The core approach is not to replace the NWM, but to build a data-driven post-processor that learns to predict and correct its systematic errors.
 
 The primary goal was to compare the effectiveness of three distinct neural network architectures in this error-correction task:
 * A **Simple Recurrent Neural Network (RNN)** as a baseline sequential model.
