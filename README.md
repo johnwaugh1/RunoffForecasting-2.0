@@ -20,6 +20,8 @@ The primary goal was to compare the effectiveness of three distinct neural netwo
 
 The study successfully demonstrated that all three deep learning architectures could learn to correct the NWM's systematic underestimation of streamflow. As hypothesized, the more complex **LSTM and Transformer models significantly outperformed the baseline Simple RNN**, yielding substantial improvements across all evaluation metrics and lead times. The final corrected forecasts from the LSTM and Transformer models provided a much more reliable and accurate prediction of observed runoff.
 
+Results are outlined in more detail in the technical report.
+
 ## 4. How to Run
 
 To replicate this project, follow these steps:
