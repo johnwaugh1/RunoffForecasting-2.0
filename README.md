@@ -44,10 +44,10 @@ pip install -r requirements.txt
 
 Execute the Jupyter notebooks in numerical order to reproduce the entire workflow.
 
-    1_data_exploration.ipynb: Loads and explores the raw data.
+    01-data-exploration.ipynb: Loads and explores the raw data.
 
-    2_preprocessing.ipynb: Cleans, aligns, scales, and sequences the data.
+    02-preprocessing.ipynb: Cleans, aligns, scales, and sequences the data.
 
-    3_model_training_and_tuning.ipynb: Trains the RNN, LSTM, and Transformer models for both stations.
+    03-training-and-tuning.ipynb: Trains the RNN, LSTM, and Transformer models for both stations.
 
-    4_results_and_visualization.ipynb: Evaluates the trained models and generates all final results and figures.
+    04-results-and-visualization.ipynb: Evaluates the trained models and generates all final results and figures.
